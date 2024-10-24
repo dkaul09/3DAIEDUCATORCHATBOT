@@ -1,4 +1,4 @@
-3D AI Educator Chatbot: Enhancing Learning through Conversation
+****3D AI Educator Chatbot: Enhancing Learning through Conversation****
 Welcome to the 3D AI Educator Chatbot project! This chatbot is designed to help students, especially those in middle school and preschool, engage in more meaningful learning experiences. The goal is to reduce the over-reliance on AI for simple answer retrieval and, instead, foster real understanding and critical thinking.
 
 🎯 Project Purpose
