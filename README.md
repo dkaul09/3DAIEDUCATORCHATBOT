@@ -31,6 +31,27 @@ When I started this project, my goal was to create something that contributes to
 
 It’s especially designed for **younger learners**, using simplified language and encouraging feedback to keep them engaged while also helping them develop critical thinking skills. The 3D interface adds a visual element that makes the learning process even more immersive and fun.
 
+## 🚀 Getting Started
+
+Make sure you have **Node.js** and **Yarn** installed on your system.
+
+To get started and run the chatbot locally, follow these steps:
+1. Clone this Github repository.
+2. Open 2 terminals: one in the front-end directory and the other in the back-end directory.
+3. Run yarn dev in both the terminals to start the back end and then the front end. You should then get a link where you can interact with the 3D Chatbot.
+
+   
+## 🙏 Credits 
+Special thanks to the following resource for helping me along the way:
+
+**YouTube Video:** [How to Build a Chatbot with GPT-3](https://www.youtube.com/watch?v=EzzcEL_1o9o)
+
+
+
+## ⚠️ Current Bug 🐛
+
+Currently, there is a known bug, where the avatar and the interface to chat with the avatar has disappeared. I'm actively working on fixing this issue and will update this repository as soon as the bug is resolved. Thanks for your patience!
+
 
 ## 🤝 Contributing
 
